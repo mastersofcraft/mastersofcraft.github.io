@@ -1,1 +1,2 @@
-placeholder.example.com, placeholder, DIRECT, placeholder
+google.com, pub-1764911046134768, DIRECT, f08c47fec0942fa0
+google.com, pub-7529800677506929, DIRECT, f08c47fec0942fa0
